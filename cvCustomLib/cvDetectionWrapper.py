@@ -18,7 +18,7 @@ class ObjectCounter:
             image_width=640,
             image_height=360,
             in_acceleration_tolerance=6,
-            out_acceleration_tolerance=6,
+            out_acceleration_tolerance=10,
             frame_tolerance=100,
             show_detection_camera=False
     ):
@@ -189,7 +189,7 @@ class ObjectCounter:
             thickness
         )
 
-    def plot_full_grid(self, image, step=10):
+    def plot_full_grid(self, image, step=10, color=Rgb.GRAY):
         """
         Plots a full grid for measuring debugging
         Arguments:
@@ -198,11 +198,11 @@ class ObjectCounter:
         """
         i = 0
         while i <= self.image_width:
-            self.plot_vertical_line(image, i, Rgb.GRAY, 1)
+            self.plot_vertical_line(image, i, color, 1)
             i += step
         i = 0
         while i <= self.image_height:
-            self.plot_horizontal_line(image, i, Rgb.GRAY, 1)
+            self.plot_horizontal_line(image, i, color, 1)
             i += step
 
     def count(self, camera_setup):
@@ -224,17 +224,19 @@ class ObjectCounter:
 
         while True:
             (grabbed, frame) = camera.read()
-            frame = imutils.resize(frame, self.image_width, self.image_height)
 
             if not grabbed:
                 Log.error("No frames can be found, check your camera configuration")
                 break
+
+            frame = imutils.resize(frame, self.image_width, self.image_height)
 
             if Camera.is_not_set(reference_frame):
                 reference_frame = Camera.apply_detection_filter(frame)
                 Log.debug("Reference frame has been set")
                 continue
 
+            debug_frame = self.get_threshold(reference_frame, frame)
             plot_frame = frame.copy()
             for moving_object in self.detect_moving_objects(reference_frame, frame):
                 if self.is_too_small(moving_object):
@@ -251,22 +253,29 @@ class ObjectCounter:
                 current_ts = int(time.time() * 100)
 
                 if self.has_crossed_entrance(centroid_y):
-                    Log.info("Current TS: {}".format(current_ts))
-                    Log.debug("IN Delay: {}ms".format(current_ts - last_in_ts))
+                    Log.info("Current TS: {}ms".format(current_ts))
+                    Log.info("Entrance delay: {}ms".format(current_ts - last_in_ts))
                     if current_ts - last_in_ts > self.frame_tolerance:
-                        Log.info("Last IN TS: {}".format(last_in_ts))
+                        Log.info("Last Entrance TS: {}".format(last_in_ts))
                         entrance_counter += 1
+                    else:
+                        Log.info("Object entrance ignored by time tolerance")
                     last_in_ts = current_ts
 
                 if self.has_crossed_exit(centroid_y):
                     Log.info("Current TS: {}".format(current_ts))
-                    Log.debug("OUT Delay: {}ms".format(current_ts - last_out_ts))
+                    Log.info("Exit delay: {}ms".format(current_ts - last_out_ts))
                     if current_ts - last_out_ts > self.frame_tolerance:
-                        Log.info("Last OUT TS: {}".format(last_in_ts))
+                        Log.info("Last exit TS: {}".format(last_in_ts))
                         exit_counter += 1
+                    else:
+                        Log.info("Object exit ignored by time tolerance")
                     last_out_ts = current_ts
 
-                object_count = min(entrance_counter, exit_counter)
+                if object_count < min(entrance_counter, exit_counter):
+                    object_count = min(entrance_counter, exit_counter)
+                    (pos_x, pos_y, obj_width, obj_height) = cv2.boundingRect(moving_object)
+                    Log.debug("Object {} | size: {} x {}".format(object_count, obj_width, obj_height))
 
             # self.plot_full_grid(plot_frame, 50)
             self.plot_reference_lines(plot_frame)
@@ -275,7 +284,8 @@ class ObjectCounter:
             self.plot_text(plot_frame, "Exits: {}".format(exit_counter), 255)
             Camera.show(plot_frame)
             if self.show_detection_camera:
-                Camera.show(self.get_threshold(reference_frame, frame), "debugging")
+                self.plot_full_grid(debug_frame, 10)
+                Camera.show(debug_frame, "debugging")
 
         camera.release()  # cleanup the camera
         cv2.destroyAllWindows()  # close any open windows

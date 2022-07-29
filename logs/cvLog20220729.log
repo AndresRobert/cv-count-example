@@ -1,0 +1,2105 @@
+[2022-07-29|16:25:09]: DEBUG: Camera is set to 1280 x 720 resolution
+[2022-07-29|16:25:10]: INFO: 20 frames have been skipped
+[2022-07-29|16:25:10]: DEBUG: Reference frame has been set
+[2022-07-29|16:25:13]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:13]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:13]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:13]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:13]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Valid object detected
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Valid object detected
+[2022-07-29|16:25:15]: INFO: Valid object detected
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:15]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Valid object detected
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:16]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Valid object detected
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:17]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Valid object detected
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:18]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Valid object detected
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:19]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Current TS: 165912632046ms
+[2022-07-29|16:25:20]: INFO: Entrance delay: 165912632046ms
+[2022-07-29|16:25:20]: INFO: Last Entrance TS: 0
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Current TS: 165912632079
+[2022-07-29|16:25:20]: INFO: Exit delay: 165912632079ms
+[2022-07-29|16:25:20]: INFO: Last exit TS: 165912632046
+[2022-07-29|16:25:20]: DEBUG: Object 1 | size: 35 x 38
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Valid object detected
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:20]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Valid object detected
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:21]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Current TS: 165912632265
+[2022-07-29|16:25:22]: INFO: Exit delay: 186ms
+[2022-07-29|16:25:22]: INFO: Last exit TS: 165912632046
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Valid object detected
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:22]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Valid object detected
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:23]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Current TS: 165912632416ms
+[2022-07-29|16:25:24]: INFO: Entrance delay: 370ms
+[2022-07-29|16:25:24]: INFO: Last Entrance TS: 165912632046
+[2022-07-29|16:25:24]: DEBUG: Object 2 | size: 41 x 47
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Current TS: 165912632466ms
+[2022-07-29|16:25:24]: INFO: Entrance delay: 50ms
+[2022-07-29|16:25:24]: INFO: Object entrance ignored by time tolerance
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Valid object detected
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:24]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Valid object detected
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:25]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Valid object detected
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:26]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Valid object detected
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:27]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Valid object detected
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:28]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Valid object detected
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored
+[2022-07-29|16:25:29]: INFO: Object is out of bounds, hence ignored

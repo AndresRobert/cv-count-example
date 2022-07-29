@@ -1,3 +1,6 @@
+import os
+from datetime import datetime
+
 # Char colors
 C_END = '\033[0m'
 C_BLACK = '\33[30m'
@@ -27,6 +30,7 @@ ERROR = C_RED + "ERROR: {}" + C_END
 
 # Logging level
 LOG_LEVEL = "DEBUG"
+LOG_PATH = "logs"
 
 
 def info(message):
@@ -37,6 +41,7 @@ def info(message):
     """
     if LOG_LEVEL in ["INFO"]:
         print(INFO.format(message))
+    to_logfile("INFO: {}".format(message))
 
 
 def debug(message):
@@ -47,6 +52,7 @@ def debug(message):
     """
     if LOG_LEVEL in ["INFO", "DEBUG"]:
         print(DEBUG.format(message))
+    to_logfile("DEBUG: {}".format(message))
 
 
 def warn(message):
@@ -57,6 +63,7 @@ def warn(message):
     """
     if LOG_LEVEL in ["INFO", "DEBUG", "WARN"]:
         print(WARN.format(message))
+    to_logfile("WARN: {}".format(message))
 
 
 def error(message):
@@ -66,4 +73,21 @@ def error(message):
         message: String
     """
     print(ERROR.format(message))
+    to_logfile("ERROR: {}".format(message))
 
+
+def to_logfile(message):
+    """
+    Prints out the message in all levels on the log file
+    Arguments:
+        message: String
+    """
+    if not os.path.exists(LOG_PATH):
+        os.makedirs(LOG_PATH)
+    timestamp = datetime.today()
+    if not os.path.exists("{}/cvLog{}.log".format(LOG_PATH, timestamp.strftime('%Y%m%d'))):
+        file = open("{}/cvLog{}.log".format(LOG_PATH, timestamp.strftime('%Y%m%d')), 'w')
+    else:
+        file = open("{}/cvLog{}.log".format(LOG_PATH, timestamp.strftime('%Y%m%d')), 'a')
+    file.write("{}: {}\n".format(timestamp.strftime('[%Y-%m-%d|%H:%M:%S]'), message))
+    file.close()
