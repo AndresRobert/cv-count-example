@@ -52,10 +52,11 @@ As you can see the detection tool in the debugging window will show the actual f
 Set the Log level here:
 
 ```python
-# cvCustomLib/cvHelpers/cvLogHelper.py#L25
+# cvCustomLib/cvHelpers/cvLogHelper.py#L29
 LOG_LEVEL = "DEBUG"  # can be INFO for full frame logging or ERROR for error only logging
 ```
 
-## Issues
+## Known Issues
 - If the base configuration changes it will detect that as a concurrent movement
 - If 2 objects are passing through at the exact same time or in between the `frame_tolerance` time it will only count one of them
+- Detection capacity depends oon camera resolution and frame rate
